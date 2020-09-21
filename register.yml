@@ -1,0 +1,5 @@
+name: AvoRed HeroProduct
+identifier: avored-heroproduct
+status: active
+description: AvoRed HeroProduct Module
+namespace: AvoRed\HeroProduct\
