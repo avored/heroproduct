@@ -25,7 +25,7 @@
         </div>
         </div>
         <div class="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
-        <img class="object-cover object-center rounded" alt="hero" src="{{ $heroProduct->mainImage->path ?? 'https://placehold.it/250x250' }}">
+        <img class="object-cover object-center rounded" alt="hero" src="{{ $heroProduct->mainImageUrl }}">
         </div>
     </div>
 </section>
